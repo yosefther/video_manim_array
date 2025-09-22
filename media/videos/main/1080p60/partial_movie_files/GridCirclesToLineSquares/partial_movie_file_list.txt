@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/MSI/Desktop/video_manim/media/videos/main/1080p60/partial_movie_files/GridCirclesToLineSquares/3977891868_2641855458_2358810818.mp4'
-file 'file:C:/Users/MSI/Desktop/video_manim/media/videos/main/1080p60/partial_movie_files/GridCirclesToLineSquares/2852726489_2574473371_3249315494.mp4'
-file 'file:C:/Users/MSI/Desktop/video_manim/media/videos/main/1080p60/partial_movie_files/GridCirclesToLineSquares/2852726489_1764092229_2355707053.mp4'
-file 'file:C:/Users/MSI/Desktop/video_manim/media/videos/main/1080p60/partial_movie_files/GridCirclesToLineSquares/2852726489_2688965532_4188030023.mp4'
